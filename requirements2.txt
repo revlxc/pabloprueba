@@ -1,0 +1,11 @@
+boto3
+openai==0.28
+gradio
+transformers
+scrapy
+PyMuPDF
+typing
+whoosh
+PyPDF2
+os
+python-dotenv
